@@ -7,14 +7,21 @@
     ],
     "dc:bibliographicCitation": "Honkola T, Vesakoski O, Korhonen K, Lehtinen J, Syrj\u00e4nen K & Wahlberg N. 2013. Cultural and climatic changes shape the evolutionary history of the Uralic languages. Journal of Evolutionary Biology, 26(6):1244\u20131253.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
-    "dc:identifier": "http://dx.doi.org/10.1111/jeb.12107",
+    "dc:identifier": "https://doi.org/10.1111/jeb.12107",
+    "dc:license": "https://creativecommons.org/licenses/by/2.0/",
     "dc:source": "sources.bib",
-    "dcat:accessURL": "https://github.com/D-PLACE/dplace-tree-honkola_et_al2013",
+    "dc:subject": {
+        "family": "Uralic [ural1272]",
+        "analysis": "bayesian",
+        "scaling": "years (rescaled from centuries)"
+    },
+    "dc:title": "Phlorest phylogeny derived from Honkola et al. 2013 'Uralic (Honkola et al. 2013)'",
+    "dcat:accessURL": "https://github.com/phlorest/honkola_et_al2013",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/D-PLACE/dplace-tree-honkola_et_al2013",
+            "rdf:about": "https://github.com/phlorest/honkola_et_al2013",
             "rdf:type": "prov:Entity",
-            "dc:created": "e239b7e",
+            "dc:created": "ce20083",
             "dc:title": "Repository"
         },
         {
@@ -27,7 +34,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.10"
+            "dc:description": "3.9.6"
         },
         {
             "dc:title": "python-packages",
