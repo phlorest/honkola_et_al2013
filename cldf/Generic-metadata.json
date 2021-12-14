@@ -13,15 +13,15 @@
     "dc:subject": {
         "family": "Uralic [ural1272]",
         "analysis": "bayesian",
-        "scaling": "years (rescaled from centuries)"
+        "scaling": "centuries"
     },
-    "dc:title": "Phlorest phylogeny derived from Honkola et al. 2013 'Uralic (Honkola et al. 2013)'",
+    "dc:title": "Phlorest phylogeny derived from Honkola et al.2013'Uralic (Honkola et al. 2013)'",
     "dcat:accessURL": "https://github.com/phlorest/honkola_et_al2013",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/phlorest/honkola_et_al2013",
             "rdf:type": "prov:Entity",
-            "dc:created": "ce20083",
+            "dc:created": "66c303a",
             "dc:title": "Repository"
         },
         {
