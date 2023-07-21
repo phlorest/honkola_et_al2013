@@ -1,4 +1,6 @@
-# Dataset honkola_et_al2013
+# Phlorest phylogeny derived from Honkola et al. 2013 'Uralic (Honkola et al. 2013)'
+
+[![CLDF validation](https://github.com/phlorest/honkola_et_al2013/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/honkola_et_al2013/actions?query=workflow%3ACLDF-validation)
 
 ## How to cite
 
@@ -10,7 +12,9 @@ If you use these data please cite
 ## Description
 
 
-Available online at http://dx.doi.org/10.1111/jeb.12107
+This dataset is licensed under a https://creativecommons.org/licenses/by/2.0/ license
+
+Available online at https://doi.org/10.1111/jeb.12107
 
 
 ## CLDF Datasets

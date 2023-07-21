@@ -1,5 +1,5 @@
 {
-    "title": null,
+    "title": "Phlorest phylogeny derived from Honkola et al. 2013 'Uralic (Honkola et al. 2013)'",
     "access_right": "open",
     "keywords": [
         "cldf:Generic",
@@ -10,6 +10,32 @@
     "communities": [
         {
             "identifier": "dplace"
+        }
+    ],
+    "creators": [
+        {
+            "name": "Honkola, T"
+        },
+        {
+            "name": "Vesakoski, O"
+        },
+        {
+            "name": "Korhonen, K"
+        },
+        {
+            "name": "Lehtinen, J"
+        },
+        {
+            "name": "Syrj\u00e4nen, K"
+        },
+        {
+            "name": "Wahlberg, N"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Simon J. Greenhill",
+            "type": "Other"
         }
     ]
 }
