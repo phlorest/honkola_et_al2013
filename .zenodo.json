@@ -1,0 +1,41 @@
+{
+    "title": "Phlorest phylogeny derived from Honkola et al. 2013 'Uralic (Honkola et al. 2013)'",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Generic",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Honkola T, Vesakoski O, Korhonen K, Lehtinen J, Syrj\u00e4nen K &amp; Wahlberg N. 2013. Cultural and climatic changes shape the evolutionary history of the Uralic languages. Journal of Evolutionary Biology, 26(6):1244\u20131253.</p>\n</blockquote>",
+    "communities": [
+        {
+            "identifier": "dplace"
+        }
+    ],
+    "creators": [
+        {
+            "name": "Honkola, T"
+        },
+        {
+            "name": "Vesakoski, O"
+        },
+        {
+            "name": "Korhonen, K"
+        },
+        {
+            "name": "Lehtinen, J"
+        },
+        {
+            "name": "Syrj\u00e4nen, K"
+        },
+        {
+            "name": "Wahlberg, N"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Simon J. Greenhill",
+            "type": "Other"
+        }
+    ]
+}
