@@ -1,4 +1,4 @@
-# Phlorest phylogeny derived from Honkola et al. 2013 'Uralic (Honkola et al. 2013)'
+# Phlorest phylogeny derived from Honkola et al. 2013 'Cultural and climatic changes shape the evolutionary history of the Uralic languages'
 
 [![CLDF validation](https://github.com/phlorest/honkola_et_al2013/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/honkola_et_al2013/actions?query=workflow%3ACLDF-validation)
 
@@ -11,10 +11,12 @@ If you use these data please cite
 
 ## Description
 
+A [Phlorest phylogeny](https://github.com/phlorest) of the Uralic language family computed from a bayesian analysis scaled by centuries.
+
 
 This dataset is licensed under a https://creativecommons.org/licenses/by/2.0/ license
 
-Available online at https://doi.org/10.1111/jeb.12107
+Source available online at https://doi.org/10.1111/jeb.12107
 
 
 ## CLDF Datasets
@@ -25,4 +27,4 @@ The following CLDF datasets are available in [cldf](cldf):
 
 ## Summary Tree
 
-![summary](./summary_tree.svg)
+![summary](https://raw.githubusercontent.com/phlorest/honkola_et_al2013/main/summary_tree.svg)

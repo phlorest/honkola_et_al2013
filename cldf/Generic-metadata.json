@@ -15,13 +15,13 @@
         "analysis": "bayesian",
         "scaling": "centuries"
     },
-    "dc:title": "Phlorest phylogeny derived from Honkola et al. 2013 'Uralic (Honkola et al. 2013)'",
+    "dc:title": "Phlorest phylogeny derived from Honkola et al. 2013 'Cultural and climatic changes shape the evolutionary history of the Uralic languages'",
     "dcat:accessURL": "https://github.com/phlorest/honkola_et_al2013",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/phlorest/honkola_et_al2013",
             "rdf:type": "prov:Entity",
-            "dc:created": "e2d9318",
+            "dc:created": "a8cc567",
             "dc:title": "Repository"
         },
         {
