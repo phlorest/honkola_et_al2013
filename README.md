@@ -1,6 +1,7 @@
 # Phlorest phylogeny derived from Honkola et al. 2013 'Cultural and climatic changes shape the evolutionary history of the Uralic languages'
 
 [![CLDF validation](https://github.com/phlorest/honkola_et_al2013/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/honkola_et_al2013/actions?query=workflow%3ACLDF-validation)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8250097.svg)](https://doi.org/10.5281/zenodo.8250097)
 
 ## How to cite
 
