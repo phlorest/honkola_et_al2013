@@ -8,7 +8,7 @@
     "dc:bibliographicCitation": "Honkola T, Vesakoski O, Korhonen K, Lehtinen J, Syrj\u00e4nen K & Wahlberg N. 2013. Cultural and climatic changes shape the evolutionary history of the Uralic languages. Journal of Evolutionary Biology, 26(6):1244\u20131253.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
     "dc:identifier": "https://doi.org/10.1111/jeb.12107",
-    "dc:license": "https://creativecommons.org/licenses/by/2.0/",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
     "dc:subject": {
         "family": "Uralic",
@@ -21,7 +21,7 @@
         {
             "rdf:about": "https://github.com/phlorest/honkola_et_al2013",
             "rdf:type": "prov:Entity",
-            "dc:created": "a8cc567",
+            "dc:created": "97df7de",
             "dc:title": "Repository"
         },
         {
@@ -34,7 +34,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.10.6"
+            "dc:description": "3.10.12"
         },
         {
             "dc:title": "python-packages",
