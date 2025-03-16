@@ -11,6 +11,7 @@
     "analysis": "bayesian",
     "family": "Uralic",
     "missing": {
+        "artefacts": "not available.",
         "nexus": "not available.",
         "characters": "not available.",
         "data": "not available.",
