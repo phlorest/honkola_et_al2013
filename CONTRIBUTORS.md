@@ -2,12 +2,11 @@
 
 Name                           | GitHub user | Description | Role
 ---                            | ---         | --- | ---
-Honkola, T                     |  | author | Author
-Vesakoski, O                   |  | author | Author
-Korhonen, K                    |  | author | Author
-Lehtinen, J                    |  | author | Author
-Syrjänen, K                    |  | author | Author
-Wahlberg, N                    |  | author | Author
+Terrhi Honkola                 |  | author | Author
+Outi Vesakoski                 |  | author | Author
+Kalle Korhonen                 |  | author | Author
+Jyri Lehtinen                  |  | author | Author
+Kaj Syrjänen                   |  | author | Author
+Niklas Wahlberg                |  | author | Author
 Simon J. Greenhill             | @SimonGreenhill | maintainer | Editor
-Robert Forkel             | @xrotwang | maintainer | Editor
-
+Robert Forkel                  | @xrotwang | maintainer | Editor
