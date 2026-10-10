@@ -1,0 +1,284 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.3004,
+          59.9409
+        ]
+      },
+      "properties": {
+        "Name": "Selkup",
+        "Glottocode": "selk1253",
+        "xd_ids": [
+          "xd619"
+        ],
+        "Glottolog_Name": "Selkup"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.0234,
+          66.1775
+        ]
+      },
+      "properties": {
+        "Name": "Nenets",
+        "Glottocode": "nene1249",
+        "Glottolog_Name": "Tundra Nenets"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6555271429,
+          46.9068585714
+        ]
+      },
+      "properties": {
+        "Name": "Hungarian",
+        "Glottocode": "hung1274",
+        "xd_ids": [
+          "xd572"
+        ],
+        "Glottolog_Name": "Hungarian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.344,
+          64.4118
+        ]
+      },
+      "properties": {
+        "Name": "Mansi",
+        "Glottocode": "mans1258",
+        "xd_ids": [
+          "xd623"
+        ],
+        "Glottolog_Name": "Northern Mansi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.873651,
+          60.10378
+        ]
+      },
+      "properties": {
+        "Name": "Khanty",
+        "Glottocode": "fare1244",
+        "Glottolog_Name": "Vach-Vasjugan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.63548,
+          56.12921
+        ]
+      },
+      "properties": {
+        "Name": "Udmurt",
+        "Glottocode": "udmu1245",
+        "Glottolog_Name": "Udmurt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.7959,
+          59.6602
+        ]
+      },
+      "properties": {
+        "Name": "Komi",
+        "Glottocode": "komi1269",
+        "Glottolog_Name": "Komi-Permyak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.405,
+          55.8307
+        ]
+      },
+      "properties": {
+        "Name": "Mari",
+        "Glottocode": "east2328",
+        "xd_ids": [
+          "xd568"
+        ],
+        "Glottolog_Name": "Eastern Mari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3901,
+          52.8548
+        ]
+      },
+      "properties": {
+        "Name": "Mordvin",
+        "Glottocode": "erzy1239",
+        "xd_ids": [
+          "xd552"
+        ],
+        "Glottolog_Name": "Erzya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1113,
+          68.725
+        ]
+      },
+      "properties": {
+        "Name": "Northern_Sami",
+        "Glottocode": "nort2671",
+        "Glottolog_Name": "North Saami"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.646,
+          64.6383
+        ]
+      },
+      "properties": {
+        "Name": "Ume_Sami",
+        "Glottocode": "umes1235",
+        "Glottolog_Name": "Ume Saami"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7204,
+          68.8326
+        ]
+      },
+      "properties": {
+        "Name": "Skolt_Sami",
+        "Glottocode": "skol1241",
+        "Glottolog_Name": "Skolt Saami"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.82,
+          58.55
+        ]
+      },
+      "properties": {
+        "Name": "Estonian",
+        "Glottocode": "esto1258",
+        "xd_ids": [
+          "xd553"
+        ],
+        "Glottolog_Name": "Estonian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0262,
+          57.566
+        ]
+      },
+      "properties": {
+        "Name": "Livonian",
+        "Glottocode": "livv1244",
+        "xd_ids": [
+          "xd562"
+        ],
+        "Glottolog_Name": "Liv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8655,
+          65.1691
+        ]
+      },
+      "properties": {
+        "Name": "Karelian",
+        "Glottocode": "kare1335",
+        "Glottolog_Name": "Karelian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7865,
+          60.3353
+        ]
+      },
+      "properties": {
+        "Name": "Veps",
+        "Glottocode": "veps1250",
+        "xd_ids": [
+          "xd565"
+        ],
+        "Glottolog_Name": "Veps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5577,
+          64.7628
+        ]
+      },
+      "properties": {
+        "Name": "Finnish",
+        "Glottocode": "finn1318",
+        "Glottolog_Name": "Finnish"
+      }
+    }
+  ]
+}
