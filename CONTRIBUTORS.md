@@ -2,7 +2,7 @@
 
 Name                           | GitHub user | Description | Role
 ---                            | ---         | --- | ---
-Terrhi Honkola                 |  | author | Author
+Terhi Honkola                  |  | author | Author
 Outi Vesakoski                 |  | author | Author
 Kalle Korhonen                 |  | author | Author
 Jyri Lehtinen                  |  | author | Author
