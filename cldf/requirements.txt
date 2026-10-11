@@ -4,7 +4,7 @@ babel==2.18.0
 bibtexparser==2.1.0
 certifi==2026.7.22
 cldfbench==2.0.1
--e git+https://github.com/phlorest/honkola_et_al2013.git@33f1e97c1cc235cd4d03e984146aadc2c15c3a5c#egg=cldfbench_honkola_et_al2013
+-e git+https://github.com/phlorest/honkola_et_al2013.git@869b7ee45be461cee01d2a6b972a10d08e2aa729#egg=cldfbench_honkola_et_al2013
 cldfcatalog==1.7.0
 cldfviz==2.0.0
 cldfzenodo==3.0.0
@@ -29,9 +29,9 @@ matplotlib==3.11.2
 multipledispatch==1.0.0
 nameparser==2.3.0
 newick==1.11.0
-numpy==2.5.3
+numpy==2.5.4
 packaging==26.3
-platformdirs==4.12.4
+platformdirs==4.13.0
 pluggy==1.6.0
 prettytable==3.18.0
 pycldf==2.1.1
